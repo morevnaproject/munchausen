@@ -1,0 +1,40 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="2"/>
+    <currentFrame value="1"/>
+    <currentView dx="0" dy="0" m21="0" m11="1" m22="1" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="1" name="r">
+      <image topLeftX="-380" topLeftY="-113" frame="1" src="001.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="6" name="sun">
+      <image topLeftX="-174" topLeftY="-7" frame="39" src="006.039.png"/>
+      <image topLeftX="-151" topLeftY="-23" frame="45" src="006.045.png"/>
+      <image topLeftX="-156" topLeftY="-62" frame="51" src="006.051.png"/>
+      <image topLeftX="-165" topLeftY="-75" frame="58" src="006.058.png"/>
+    </layer>
+    <layer width="480" visibility="1" height="270" type="5" name="Camera Layer">
+      <camera dx="25,83961478804249" dy="-21,10341836151295" m21="0" m11="1,105170918075648" m22="1,105170918075648" m12="0" frame="1"/>
+    </layer>
+    <layer visibility="1" type="1" id="4" name="f">
+      <image topLeftX="-242" topLeftY="-50" frame="1" src="004.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="5" name="car">
+      <image topLeftX="-305" topLeftY="-160" frame="1" src="005.001.png"/>
+      <image topLeftX="-276" topLeftY="-146" frame="8" src="005.008.png"/>
+      <image topLeftX="-286" topLeftY="-144" frame="15" src="005.015.png"/>
+      <image topLeftX="0" topLeftY="0" frame="21" src="005.021.png"/>
+      <image topLeftX="-230" topLeftY="60" frame="80" src="005.080.png"/>
+      <image topLeftX="-194" topLeftY="64" frame="83" src="005.083.png"/>
+      <image topLeftX="-161" topLeftY="54" frame="86" src="005.086.png"/>
+      <image topLeftX="-125" topLeftY="50" frame="89" src="005.089.png"/>
+      <image topLeftX="-86" topLeftY="46" frame="92" src="005.092.png"/>
+      <image topLeftX="-49" topLeftY="51" frame="95" src="005.095.png"/>
+      <image topLeftX="-21" topLeftY="50" frame="98" src="005.098.png"/>
+      <image topLeftX="22" topLeftY="50" frame="101" src="005.101.png"/>
+      <image topLeftX="69" topLeftY="54" frame="104" src="005.104.png"/>
+    </layer>
+  </object>
+</document>
