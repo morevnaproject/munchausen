@@ -1,0 +1,34 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="3"/>
+    <currentFrame value="1"/>
+    <currentView dx="-114" dy="-58" m21="0" m11="1" m22="1" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="0" type="1" id="1" name="Bitmap Layer">
+      <image topLeftX="-349" topLeftY="-188" frame="1" src="001.001.png"/>
+      <image topLeftX="-74" topLeftY="-60" frame="2" src="001.002.png"/>
+      <image topLeftX="-64" topLeftY="-157" frame="3" src="001.003.png"/>
+      <image topLeftX="-30" topLeftY="-171" frame="5" src="001.005.png"/>
+      <image topLeftX="-142" topLeftY="-174" frame="7" src="001.007.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="6" name="z">
+      <image topLeftX="-55" topLeftY="-65" frame="1" src="006.001.png"/>
+      <image topLeftX="-46" topLeftY="-44" frame="3" src="006.003.png"/>
+      <image topLeftX="-63" topLeftY="-57" frame="5" src="006.005.png"/>
+      <image topLeftX="-75" topLeftY="-16" frame="7" src="006.007.png"/>
+      <image topLeftX="-48" topLeftY="-63" frame="9" src="006.009.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="5" name="Bitmap Layer">
+      <image topLeftX="-289" topLeftY="-327" frame="1" src="005.001.png"/>
+      <image topLeftX="-42" topLeftY="-58" frame="3" src="005.003.png"/>
+      <image topLeftX="-12" topLeftY="-72" frame="5" src="005.005.png"/>
+      <image topLeftX="-68" topLeftY="-43" frame="7" src="005.007.png"/>
+      <image topLeftX="-50" topLeftY="-60" frame="9" src="005.009.png"/>
+    </layer>
+    <layer width="640" visibility="1" height="480" type="5" name="Camera Layer">
+      <camera dx="-97,83548720984922" dy="-64,90020197834323" m21="0" m11="0,8436648165963837" m22="0,8436648165963837" m12="0" frame="1"/>
+    </layer>
+  </object>
+</document>
