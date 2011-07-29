@@ -1898,7 +1898,7 @@
                         <real value="1.0000000000"/>
                       </param>
                       <param name="filename">
-                        <string>../characters/stritracer-profile/skorohod2-head-2.png</string>
+                        <string>../concept/skorohod2-head.png</string>
                       </param>
                       <param name="time_offset">
                         <time value="0s"/>
