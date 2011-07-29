@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="19f" bgcolor="0.500000 0.500000 0.500000 1.000000">
+  <name>Synfig Animation 10</name>
+  <keyframe time="0f"/>
+  <keyframe time="5f"/>
+  <keyframe time="6f"/>
+  <keyframe time="8f"/>
+  <keyframe time="12f"/>
+  <layer type="SolidColor" active="true" version="0.1">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="color">
+      <color>
+        <r>1.000000</r>
+        <g>1.000000</g>
+        <b>1.000000</b>
+        <a>1.000000</a>
+      </color>
+    </param>
+  </layer>
+  <layer type="import" active="true" version="0.1" desc="file.lst">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="tl">
+      <vector>
+        <x>-4.0000000000</x>
+        <y>2.2500000000</y>
+      </vector>
+    </param>
+    <param name="br">
+      <vector>
+        <x>4.0000000000</x>
+        <y>-2.2500000000</y>
+      </vector>
+    </param>
+    <param name="c">
+      <integer value="1" static="true"/>
+    </param>
+    <param name="gamma_adjust">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="filename">
+      <string>../render/475/animatic.pcl.png/file.lst</string>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+  </layer>
+  <layer type="linear_gradient" active="true" version="0.0" desc="Gradient027">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="p1">
+      <vector>
+        <x>-0.0442432351</x>
+        <y>2.2715940475</y>
+      </vector>
+    </param>
+    <param name="p2">
+      <vector>
+        <x>-0.0111169433</x>
+        <y>-2.3280370235</y>
+      </vector>
+    </param>
+    <param name="gradient">
+      <gradient>
+        <color pos="0.000000">
+          <r>0.163464</r>
+          <g>0.683205</g>
+          <b>0.928834</b>
+          <a>1.000000</a>
+        </color>
+        <color pos="1.000000">
+          <r>1.000000</r>
+          <g>1.000000</g>
+          <b>1.000000</b>
+          <a>1.000000</a>
+        </color>
+      </gradient>
+    </param>
+    <param name="loop">
+      <bool value="false"/>
+    </param>
+    <param name="zigzag">
+      <bool value="false"/>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas>
+        <layer type="import" active="true" version="0.1" desc="neboscrebi.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector guid="5633F974758A14DF18D27F47551FA11E">
+              <x>-8.0190792084</x>
+              <y>0.4266301394</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector guid="7A935F86F5C561F67EF8F032C8E3FDCD">
+              <x>7.1610784531</x>
+              <y>-6.9066996574</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../bg/neboscrebi.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+        <layer type="import" active="true" version="0.1" desc="neboscrebi.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector guid="E5A7859550BDAAFD48859DFF90D9AAEA">
+              <x>5.9407386780</x>
+              <y>0.2579859793</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector guid="FAB0B28964854AD9069BB459F33028A3">
+              <x>21.1208972931</x>
+              <y>-7.0753440857</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../bg/neboscrebi.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+        <layer type="import" active="true" version="0.1" desc="neboscrebi.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector guid="9590180C273D30EA5C3F24FD501C2963">
+              <x>-2.8378946781</x>
+              <y>0.2244321108</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector guid="5A70913E9ACF4B05DE2E5126C1AD4150">
+              <x>12.3422641754</x>
+              <y>-7.1088976860</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../bg/neboscrebi.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1" desc="vint">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <animated type="vector">
+        <waypoint time="0s" before="constant" after="constant">
+          <vector guid="BC3F730D209F845874FC8EAEB86F8A53">
+            <x>-0.3830156326</x>
+            <y>0.0109021990</y>
+          </vector>
+        </waypoint>
+        <waypoint time="0.20833333s" before="constant" after="constant">
+          <vector guid="5B43A963EC7EDAE419EF753D4457CC83">
+            <x>-0.3377521932</x>
+            <y>-0.2340756804</y>
+          </vector>
+        </waypoint>
+        <waypoint time="0.25s" before="constant" after="constant">
+          <vector guid="50889EEC0E7D8E374037ED87BF6933EE">
+            <x>-0.1091807634</x>
+            <y>-0.7558147907</y>
+          </vector>
+        </waypoint>
+        <waypoint time="0.33333334s" before="linear" after="linear">
+          <vector guid="B1EC0A706F7CE2CBA72CC5283EDF432E">
+            <x>-0.1744868904</x>
+            <y>-0.2992930710</y>
+          </vector>
+        </waypoint>
+        <waypoint time="0.5s" before="linear" after="linear">
+          <vector guid="36EC6958C4F595AA271AC50291B1BD93">
+            <x>-0.3377521932</x>
+            <y>0.2550547421</y>
+          </vector>
+        </waypoint>
+      </animated>
+    </param>
+    <param name="canvas">
+      <canvas>
+        <layer type="PasteCanvas" active="true" version="0.1" desc="bullet">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <animated type="real">
+              <waypoint time="0s" before="constant" after="constant">
+                <real value="0.0000000000" guid="4C661317FE5E55552A63763E358C7CA4"/>
+              </waypoint>
+              <waypoint time="0.20833333s" before="constant" after="constant">
+                <real value="1.0000000000" guid="F9DE14F45DC875C9B5A15ED5365663BA"/>
+              </waypoint>
+            </animated>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="origin">
+            <animated type="vector">
+              <waypoint time="0s" before="constant" after="constant">
+                <vector guid="FCD41D2AA1C9537DDCA3AC2FC283034E">
+                  <x>0.0000000000</x>
+                  <y>0.0000000000</y>
+                </vector>
+              </waypoint>
+              <waypoint time="0.20833333s" before="constant" after="constant">
+                <vector guid="42AA76A8D83FFE6669CD5483A414EAA5">
+                  <x>-0.0328747220</x>
+                  <y>0.1944743693</y>
+                </vector>
+              </waypoint>
+              <waypoint time="0.25s" before="constant" after="constant">
+                <vector guid="26D89C69F65A19F3F50B98753E421743">
+                  <x>-0.0328747220</x>
+                  <y>0.2735870779</y>
+                </vector>
+              </waypoint>
+              <waypoint time="0.33333334s" before="constant" after="constant">
+                <vector guid="8EEAA11C2A968609641A099BE6FF5856">
+                  <x>-0.0328747220</x>
+                  <y>0.2735870779</y>
+                </vector>
+              </waypoint>
+              <waypoint time="0.41666666s" before="constant" after="constant">
+                <vector guid="FAC77E3D8DFB0698ACF1EA713576025E">
+                  <x>-0.2210230082</x>
+                  <y>0.5801487565</y>
+                </vector>
+              </waypoint>
+            </animated>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" version="0.1" desc="file.lst">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-1.1853375435</x>
+                    <y>1.7916954756</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>1.3052945137</x>
+                    <y>-0.0762785822</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../render/475/bullet.pcl.png/file.lst</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+              <layer type="rotate" active="true" version="0.1">
+                <param name="origin">
+                  <vector>
+                    <x>0.0000000000</x>
+                    <y>0.0000000000</y>
+                  </vector>
+                </param>
+                <param name="amount">
+                  <angle value="8.863461"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="zoom">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="-0.20833333s" static="true"/>
+          </param>
+          <param name="children_lock">
+            <bool value="false" static="true"/>
+          </param>
+          <param name="focus">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+        </layer>
+        <layer type="PasteCanvas" active="true" version="0.1">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" version="0.1" desc="vintovka-stvol.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-2.2837989330</x>
+                    <y>0.9736928940</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>6.0733437538</x>
+                    <y>-3.5263071060</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../objects/vintovka-stvol.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+              <layer type="rotate" active="true" version="0.1">
+                <param name="origin">
+                  <vector>
+                    <x>0.0000000000</x>
+                    <y>0.0000000000</y>
+                  </vector>
+                </param>
+                <param name="amount">
+                  <angle value="-77.259628"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="zoom">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="false" static="true"/>
+          </param>
+          <param name="focus">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="0.5000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>-0.0835509151</x>
+        <y>0.0418604650</y>
+      </vector>
+    </param>
+  </layer>
+</canvas>

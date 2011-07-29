@@ -1,0 +1,29 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="2"/>
+    <currentFrame value="1"/>
+    <currentView dx="0" dy="0" m21="0" m11="1" m22="1" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="4" name="z">
+      <image topLeftX="-267" topLeftY="-166" frame="1" src="004.001.png"/>
+      <image topLeftX="-229" topLeftY="-147" frame="2" src="004.002.png"/>
+      <image topLeftX="-254" topLeftY="-281" frame="3" src="004.003.png"/>
+      <image topLeftX="-238" topLeftY="-233" frame="4" src="004.004.png"/>
+      <image topLeftX="-232" topLeftY="-242" frame="5" src="004.005.png"/>
+      <image topLeftX="-229" topLeftY="-236" frame="6" src="004.006.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="1" name="k">
+      <image topLeftX="-251" topLeftY="-105" frame="1" src="001.001.png"/>
+      <image topLeftX="-212" topLeftY="-67" frame="2" src="001.002.png"/>
+      <image topLeftX="-212" topLeftY="-157" frame="3" src="001.003.png"/>
+      <image topLeftX="-207" topLeftY="-215" frame="4" src="001.004.png"/>
+      <image topLeftX="-195" topLeftY="-198" frame="5" src="001.005.png"/>
+      <image topLeftX="-213" topLeftY="-213" frame="6" src="001.006.png"/>
+    </layer>
+    <layer width="640" visibility="1" height="480" type="5" name="Camera Layer">
+      <camera dx="93,64411106418025" dy="92,25901586050398" m21="-0,3297452123748256" m11="1,02055959834451" m22="1,02055959834451" m12="0,3297452123748256" frame="1"/>
+    </layer>
+  </object>
+</document>
