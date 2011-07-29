@@ -1,0 +1,647 @@
+<?xml version="1.0"?>
+<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="2s 22f" bgcolor="0.500000 0.500000 0.500000 1.000000">
+  <name>&#x41C;&#x443;&#x43B;&#x44C;&#x442;&#x444;&#x438;&#x43B;&#x44C;&#x43C; Synfig1</name>
+  <keyframe time="0f"/>
+  <keyframe time="2f"/>
+  <keyframe time="4f"/>
+  <keyframe time="6f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="8f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="10f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="12f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="14f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="16f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="18f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="20f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="22f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="1s 6f"/>
+  <keyframe time="1s 9f"/>
+  <keyframe time="1s 11f"/>
+  <keyframe time="1s 15f"/>
+  <keyframe time="1s 17f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="1s 20f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="1s 22f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 2f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 5f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 7f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 11f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 13f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 16f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 18f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 21f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="2s 23f"/>
+  <keyframe time="3s 1f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="3s 3f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="3s 5f"> (&#x41A;&#x43E;&#x43F;&#x438;&#x44F;)</keyframe>
+  <keyframe time="3s 7f"/>
+  <layer type="PasteCanvas" active="true" version="0.1">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas>
+        <layer type="linear_gradient" active="true" version="0.0" desc="Gradient005">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="p1">
+            <vector>
+              <x>-5.1056141853</x>
+              <y>2.6686046124</y>
+            </vector>
+          </param>
+          <param name="p2">
+            <vector>
+              <x>-5.2619662285</x>
+              <y>-3.3226745129</y>
+            </vector>
+          </param>
+          <param name="gradient">
+            <gradient>
+              <color pos="0.000000">
+                <r>0.000000</r>
+                <g>0.481872</g>
+                <b>0.825782</b>
+                <a>1.000000</a>
+              </color>
+              <color pos="1.000000">
+                <r>0.000000</r>
+                <g>0.844243</g>
+                <b>1.000000</b>
+                <a>1.000000</a>
+              </color>
+            </gradient>
+          </param>
+          <param name="loop">
+            <bool value="false"/>
+          </param>
+          <param name="zigzag">
+            <bool value="false"/>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+  </layer>
+  <layer type="linear_gradient" active="true" version="0.0" desc="Gradient027">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="p1">
+      <vector>
+        <x>-0.0599089153</x>
+        <y>0.5186600089</y>
+      </vector>
+    </param>
+    <param name="p2">
+      <vector>
+        <x>-0.0111169433</x>
+        <y>-2.3280370235</y>
+      </vector>
+    </param>
+    <param name="gradient">
+      <gradient>
+        <color pos="0.000000">
+          <r>0.163464</r>
+          <g>0.683205</g>
+          <b>0.928834</b>
+          <a>1.000000</a>
+        </color>
+        <color pos="1.000000">
+          <r>1.000000</r>
+          <g>1.000000</g>
+          <b>1.000000</b>
+          <a>1.000000</a>
+        </color>
+      </gradient>
+    </param>
+    <param name="loop">
+      <bool value="false"/>
+    </param>
+    <param name="zigzag">
+      <bool value="false"/>
+    </param>
+  </layer>
+  <layer type="import" active="true" version="0.1" desc="neboscrebi.png">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="tl">
+      <vector>
+        <x>-1.6317088604</x>
+        <y>1.6318529844</y>
+      </vector>
+    </param>
+    <param name="br">
+      <vector>
+        <x>7.5319275856</x>
+        <y>-2.7949762344</y>
+      </vector>
+    </param>
+    <param name="c">
+      <integer value="1" static="true"/>
+    </param>
+    <param name="gamma_adjust">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="filename">
+      <string>../bg/neboscrebi.png</string>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1" desc="hand dont" group="workman">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>-3.5059020519</x>
+        <y>-1.8534970284</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas end-time="5s">
+        <layer type="import" active="true" version="0.1" desc="hand2.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector>
+              <x>-0.6333333254</x>
+              <y>2.0583333969</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector>
+              <x>0.6333333254</x>
+              <y>-2.0583333969</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../characters/workman/hand2.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+        <layer type="stretch" active="true" version="0.1">
+          <param name="amount">
+            <vector>
+              <x>-0.9381107688</x>
+              <y>0.8895348907</y>
+            </vector>
+          </param>
+          <param name="center">
+            <vector>
+              <x>0.2204824090</x>
+              <y>0.0040611057</y>
+            </vector>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>-0.0260586310</x>
+        <y>-0.2093023211</y>
+      </vector>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1" desc="hand" group="workman">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>-0.3788661361</x>
+        <y>-1.7226830721</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas end-time="5s">
+        <layer type="import" active="true" version="0.1" desc="hand3.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector>
+              <x>-1.5525691509</x>
+              <y>2.5915031433</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector>
+              <x>4.3503322601</x>
+              <y>0.1854677200</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../characters/workman/hand3.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+        <layer type="rotate" active="true" version="0.1">
+          <param name="origin">
+            <vector>
+              <x>-0.1829270869</x>
+              <y>1.3233397007</y>
+            </vector>
+          </param>
+          <param name="amount">
+            <animated type="angle">
+              <waypoint time="0.91666669s" before="auto" after="auto">
+                <angle value="-88.164925" guid="B6C79FA8E381D205CA3BB15C6B450F4C"/>
+              </waypoint>
+              <waypoint time="1.25s" before="auto" after="auto">
+                <angle value="5.483663" guid="AFC465136EC76F5D41F674CC9F1A7D9D"/>
+              </waypoint>
+              <waypoint time="1.375s" before="auto" after="auto">
+                <angle value="5.483663" guid="DEB2138637B02D6E2501C004E562E141"/>
+              </waypoint>
+              <waypoint time="1.45833337s" before="auto" after="auto">
+                <angle value="5.483663" guid="7174621DE6970FB0023C497195A60E6C"/>
+              </waypoint>
+              <waypoint time="1.625s" before="auto" after="auto">
+                <angle value="5.483663" guid="3479F91C32AAFC14E7F3E62B1EB96968"/>
+              </waypoint>
+              <waypoint time="1.70833337s" before="auto" after="auto">
+                <angle value="5.483663" guid="317BD49585D38DDCF7B8BEE73B283B53"/>
+              </waypoint>
+              <waypoint time="2s" before="auto" after="auto">
+                <angle value="5.483663" guid="88B2BB7E0AC1FA7ECEE870C512D5BE74"/>
+              </waypoint>
+              <waypoint time="2.08333325s" before="auto" after="auto">
+                <angle value="5.483663" guid="209033190975E92522332FB11252B91F"/>
+              </waypoint>
+              <waypoint time="2.20833325s" before="auto" after="auto">
+                <angle value="5.483663" guid="FF352F2275BE19AF4FDED7B47809BFFC"/>
+              </waypoint>
+              <waypoint time="2.29166675s" before="auto" after="auto">
+                <angle value="5.483663" guid="5FBB232CB30515905BAB12E1E3941BC4"/>
+              </waypoint>
+              <waypoint time="2.45833325s" before="auto" after="auto">
+                <angle value="5.483663" guid="5D099F0D0EDADA2D12ADA7AA3E6460B7"/>
+              </waypoint>
+              <waypoint time="2.54166675s" before="auto" after="auto">
+                <angle value="5.483663" guid="742251951B3D4982C86E3A1B042073C3"/>
+              </waypoint>
+              <waypoint time="2.66666675s" before="auto" after="auto">
+                <angle value="5.483663" guid="3EA5236BF875957DE3C4AAFC73BA3C70"/>
+              </waypoint>
+              <waypoint time="2.75s" before="auto" after="auto">
+                <angle value="5.483663" guid="F74DC2908FDCAD8142C52C41D7E94266"/>
+              </waypoint>
+            </animated>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="-0.1500000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>-0.0260586310</x>
+        <y>0.0784883723</y>
+      </vector>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1" desc="body" group="workman">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>-1.7339149714</x>
+        <y>-3.3709387779</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas end-time="5s">
+        <layer type="import" active="true" version="0.1" desc="body.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector>
+              <x>-1.7833333015</x>
+              <y>3.8499999046</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector>
+              <x>1.7833333015</x>
+              <y>-3.8499999046</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <string>../characters/workman/body.png</string>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+  </layer>
+  <layer type="PasteCanvas" active="true" version="0.1" desc="head" group="workman">
+    <param name="z_depth">
+      <real value="0.0000000000"/>
+    </param>
+    <param name="amount">
+      <real value="1.0000000000"/>
+    </param>
+    <param name="blend_method">
+      <integer value="0"/>
+    </param>
+    <param name="origin">
+      <vector>
+        <x>-1.9163254499</x>
+        <y>1.3645262718</y>
+      </vector>
+    </param>
+    <param name="canvas">
+      <canvas end-time="5s">
+        <layer type="import" active="true" version="0.1" desc="head7.png">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="tl">
+            <vector>
+              <x>-2.1333334446</x>
+              <y>2.6666667461</y>
+            </vector>
+          </param>
+          <param name="br">
+            <vector>
+              <x>2.1333334446</x>
+              <y>-2.6666667461</y>
+            </vector>
+          </param>
+          <param name="c">
+            <integer value="1" static="true"/>
+          </param>
+          <param name="gamma_adjust">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="filename">
+            <animated type="string">
+              <waypoint time="0s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="0.08333334s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="0.16666667s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="0.25s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="0.33333334s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="0.41666666s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="0.5s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="0.58333331s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="0.66666669s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="0.75s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="0.83333331s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="0.91666669s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="1.25s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="1.375s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="1.45833325s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="1.625s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="1.70833337s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="1.83333325s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="1.91666663s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="2s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="2.08333325s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="2.20833325s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="2.29166651s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="2.45833349s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="2.54166675s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+              <waypoint time="2.66666651s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="2.75s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="2.875s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="2.95833325s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="3.04166675s" before="auto" after="auto">
+                <string>../characters/workman/head4.png</string>
+              </waypoint>
+              <waypoint time="3.125s" before="auto" after="auto">
+                <string>../characters/workman/head3.png</string>
+              </waypoint>
+              <waypoint time="3.20833325s" before="auto" after="auto">
+                <string>../characters/workman/head7.png</string>
+              </waypoint>
+            </animated>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+        </layer>
+      </canvas>
+    </param>
+    <param name="zoom">
+      <real value="-0.1500000000"/>
+    </param>
+    <param name="time_offset">
+      <time value="0s"/>
+    </param>
+    <param name="children_lock">
+      <bool value="false" static="true"/>
+    </param>
+    <param name="focus">
+      <vector>
+        <x>0.0000000000</x>
+        <y>0.0000000000</y>
+      </vector>
+    </param>
+  </layer>
+</canvas>
