@@ -1,5 +1,20 @@
 The Adventures of Boris Munchausen
 
-This is a sources of animated short called "The Adventures of Boris Munchausen". You are free to modify and distribute them under the terms of Creative Commons Attribution-Share Alike 3.0 license. The final movie file can be built from those sources using the Remake tool (https://github.com/morevnaproject/remake). 
+DESCRIPTION
+
+This is a sources of animated short called "The Adventures of Boris Munchausen". You are free to modify and distribute them under the terms of Creative Commons Attribution-Share Alike 3.0 license. The final movie file can be built from those sources using the Remake tool (http://github.com/morevnaproject/remake). 
 
 For more information see http://munchausenproject.wordpress.com/.
+
+QUICK INSTRUCTIONS
+
+1. Install required dependencies
+   - Remake >= 0.3 (http://github.com/morevnaproject/remake)
+   - Synfig Studio >= 0.63.00 (http://synfig.org/)
+   - Blender 2.49b (http://download.blender.org/release/Blender2.49b/)
+   - Pencil 0.5 (Morevna Branch) (http://morevnaproject.org/packages/#pencil)
+
+2. Open a terminal, cd to the directory where you downloaded the project sources to and invoke this command:
+   $ remake ./project-bma.blend
+
+3. Wait until the animation will be rendered. After that you will find resulting file called "project-bma.blend.mpg" in the "render/" subdirectory of the project sources.
