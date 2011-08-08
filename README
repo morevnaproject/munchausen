@@ -9,10 +9,18 @@ For more information see http://munchausenproject.wordpress.com/.
 QUICK INSTRUCTIONS
 
 1. Install required dependencies
-   - Remake >= 0.3 (http://github.com/morevnaproject/remake)
-   - Synfig Studio >= 0.63.00 (http://synfig.org/)
-   - Pencil 0.5 (Morevna Branch) (http://morevnaproject.org/packages/#pencil)
-   - Blender 2.49b (with FFMpeg support) (http://download.blender.org/release/Blender2.49b/)
+   - Remake >= 0.3 
+       Homepage: http://github.com/morevnaproject/remake/
+       Download: http://github.com/morevnaproject/remake/tarball/master
+   - Synfig Studio >= 0.63.00
+       Homepage: http://synfig.org/
+       Download: http://synfig.org/cms/en/download/
+   - Pencil 0.5 (Morevna Branch) 
+       Homepage: http://github.com/morevnaproject/pencil/
+       Download: http://morevnaproject.org/packages/#pencil
+   - Blender 2.49b (with FFMpeg support)
+       Homepage: http://www.blender.org/
+       Download: http://morevnaproject.org/packages/#blender
    
 2. Open a terminal, cd to the directory where you downloaded the project sources to and invoke this command:
    $ remake ./project-bma.blend
