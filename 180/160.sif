@@ -711,25 +711,25 @@
                 <string>../characters/mh/head-01.png</string>
               </waypoint>
               <waypoint time="1.83333337s" before="auto" after="auto">
-                <string>../characters/mh/head-02.png</string>
+                <string guid="0094E372AFDA53DF0F837EB32D621944">../characters/mh/head-02.png</string>
               </waypoint>
               <waypoint time="2s" before="auto" after="auto">
-                <string>../characters/mh/head-03.png</string>
+                <string guid="009CEA8A0EE5E3E2F47A804680E2EBB9">../characters/mh/head-03.png</string>
               </waypoint>
               <waypoint time="2.16666675s" before="auto" after="auto">
-                <string>../characters/mh/head-04.png</string>
+                <string guid="7E36A7F1ABF594AFB998F0CA2E46366B">../characters/mh/head-04.png</string>
               </waypoint>
               <waypoint time="2.33333325s" before="auto" after="auto">
-                <string>../characters/mh/head-02.png</string>
+                <string guid="AF24F19463C77A1F0B396D158E92743D">../characters/mh/head-02.png</string>
               </waypoint>
               <waypoint time="2.5s" before="auto" after="auto">
-                <string>../characters/mh/head-02.png</string>
+                <string guid="63F127836E983FF7C43031F4FABA2B28">../characters/mh/head-02.png</string>
               </waypoint>
               <waypoint time="2.66666675s" before="auto" after="auto">
-                <string>../characters/mh/head-03.png</string>
+                <string guid="644373AAF5F8073201E74273D987CFCB">../characters/mh/head-03.png</string>
               </waypoint>
               <waypoint time="2.79166675s" before="auto" after="auto">
-                <string>../characters/mh/head-04.png</string>
+                <string guid="FB26F6DF9E2B3C2CA790C41DA0FB33A6">../characters/mh/head-04.png</string>
               </waypoint>
             </animated>
           </param>
