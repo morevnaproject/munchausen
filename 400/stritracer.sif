@@ -2057,7 +2057,7 @@
                     <entry>
                       <composite type="bline_point">
                         <point>
-                          <vector>
+                          <vector guid="C69F5A3839B11F339F85B96903D821AC">
                             <x>0.0000000000</x>
                             <y>-0.0000000000</y>
                           </vector>
