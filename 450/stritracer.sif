@@ -1954,14 +1954,14 @@
                       </param>
                       <param name="filename">
                         <animated type="string">
-                          <waypoint time="0s" before="auto" after="auto">
-                            <string guid="2E5E7E358A52164D4796B0950BF51DF4">/home/tux/personal/dckt-projects/002-BMA-repo/concept/skorohod2-head.png</string>
+                          <waypoint time="0s" before="constant" after="constant">
+                            <string>../characters/stritracer-profile/skorohod2-head-1.png</string>
                           </waypoint>
                           <waypoint time="1.41666663s" before="constant" after="constant">
                             <string>../characters/stritracer/60.png</string>
                           </waypoint>
-                          <waypoint time="1.5s" before="auto" after="auto">
-                            <string guid="AF85A95ED1377099E3F2B9700EF05319">/home/tux/personal/dckt-projects/002-BMA-repo/concept/skorohod2-head.png</string>
+                          <waypoint time="1.5s" before="constant" after="constant">
+                            <string>../characters/stritracer-profile/skorohod2-head-1.png</string>
                           </waypoint>
                         </animated>
                       </param>
