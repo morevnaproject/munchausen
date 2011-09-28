@@ -595,7 +595,7 @@
             <integer value="0"/>
           </param>
           <param name="text">
-            <string>1.0</string>
+            <string>1.01</string>
           </param>
           <param name="color">
             <color>
