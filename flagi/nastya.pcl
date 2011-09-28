@@ -1,0 +1,37 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="2"/>
+    <currentFrame value="19"/>
+    <currentView dx="145" dy="144" m21="0" m11="1" m22="1" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="4" name="z">
+      <image topLeftX="-213" topLeftY="-288" frame="1" src="004.001.png"/>
+      <image topLeftX="-211" topLeftY="-290" frame="3" src="004.003.png"/>
+      <image topLeftX="-210" topLeftY="-291" frame="5" src="004.005.png"/>
+      <image topLeftX="-211" topLeftY="-293" frame="7" src="004.007.png"/>
+      <image topLeftX="-212" topLeftY="-298" frame="9" src="004.009.png"/>
+      <image topLeftX="-212" topLeftY="-295" frame="11" src="004.011.png"/>
+      <image topLeftX="-215" topLeftY="-304" frame="13" src="004.013.png"/>
+      <image topLeftX="-214" topLeftY="-300" frame="15" src="004.015.png"/>
+      <image topLeftX="-213" topLeftY="-292" frame="17" src="004.017.png"/>
+      <image topLeftX="-216" topLeftY="-286" frame="19" src="004.019.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="1" name="Bitmap Layer">
+      <image topLeftX="-240" topLeftY="-292" frame="1" src="001.001.png"/>
+      <image topLeftX="-240" topLeftY="-329" frame="3" src="001.003.png"/>
+      <image topLeftX="-243" topLeftY="-295" frame="5" src="001.005.png"/>
+      <image topLeftX="-244" topLeftY="-298" frame="7" src="001.007.png"/>
+      <image topLeftX="-243" topLeftY="-298" frame="9" src="001.009.png"/>
+      <image topLeftX="-242" topLeftY="-301" frame="11" src="001.011.png"/>
+      <image topLeftX="-242" topLeftY="-305" frame="13" src="001.013.png"/>
+      <image topLeftX="-240" topLeftY="-306" frame="15" src="001.015.png"/>
+      <image topLeftX="-235" topLeftY="-308" frame="17" src="001.017.png"/>
+      <image topLeftX="-463" topLeftY="-448" frame="19" src="001.019.png"/>
+    </layer>
+    <layer width="640" visibility="1" height="480" type="5" name="Camera Layer">
+      <camera dx="223,1282305529371" dy="52,24691316897717" m21="1,021282305529371" m11="1,252469131689772" m22="1,252469131689772" m12="-1,021282305529371" frame="1"/>
+    </layer>
+  </object>
+</document>

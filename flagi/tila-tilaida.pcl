@@ -1,0 +1,41 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="2"/>
+    <currentFrame value="1"/>
+    <currentView dx="154" dy="154" m21="0" m11="2,095935514494364" m22="2,095935514494364" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="4" name="z">
+      <image topLeftX="-227" topLeftY="-114" frame="1" src="004.001.png"/>
+      <image topLeftX="-232" topLeftY="-113" frame="2" src="004.002.png"/>
+      <image topLeftX="-225" topLeftY="-117" frame="3" src="004.003.png"/>
+      <image topLeftX="-225" topLeftY="-140" frame="4" src="004.004.png"/>
+      <image topLeftX="-237" topLeftY="-128" frame="5" src="004.005.png"/>
+      <image topLeftX="-223" topLeftY="-131" frame="6" src="004.006.png"/>
+      <image topLeftX="-223" topLeftY="-141" frame="7" src="004.007.png"/>
+      <image topLeftX="-222" topLeftY="-150" frame="8" src="004.008.png"/>
+      <image topLeftX="-219" topLeftY="-119" frame="9" src="004.009.png"/>
+      <image topLeftX="-234" topLeftY="-121" frame="10" src="004.010.png"/>
+      <image topLeftX="-219" topLeftY="-132" frame="11" src="004.011.png"/>
+      <image topLeftX="-229" topLeftY="-138" frame="12" src="004.012.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="1" name="Bitmap Layer">
+      <image topLeftX="-218" topLeftY="-105" frame="1" src="001.001.png"/>
+      <image topLeftX="-219" topLeftY="-105" frame="2" src="001.002.png"/>
+      <image topLeftX="-220" topLeftY="-113" frame="3" src="001.003.png"/>
+      <image topLeftX="-219" topLeftY="-125" frame="4" src="001.004.png"/>
+      <image topLeftX="-220" topLeftY="-121" frame="5" src="001.005.png"/>
+      <image topLeftX="-217" topLeftY="-131" frame="6" src="001.006.png"/>
+      <image topLeftX="-215" topLeftY="-116" frame="7" src="001.007.png"/>
+      <image topLeftX="-216" topLeftY="-140" frame="8" src="001.008.png"/>
+      <image topLeftX="-217" topLeftY="-117" frame="9" src="001.009.png"/>
+      <image topLeftX="-216" topLeftY="-124" frame="10" src="001.010.png"/>
+      <image topLeftX="-215" topLeftY="-132" frame="11" src="001.011.png"/>
+      <image topLeftX="-216" topLeftY="-133" frame="12" src="001.012.png"/>
+    </layer>
+    <layer width="640" visibility="1" height="480" type="5" name="Camera Layer">
+      <camera dx="158" dy="94" m21="0" m11="1,858928041846342" m22="1,858928041846342" m12="0" frame="1"/>
+    </layer>
+  </object>
+</document>
