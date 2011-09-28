@@ -1438,11 +1438,11 @@
                           <waypoint time="4.66666651s" before="constant" after="constant">
                             <string>../characters/snipe/02.png</string>
                           </waypoint>
-                          <waypoint time="5.625s" before="auto" after="auto">
-                            <string guid="D8314FE74B7C813EF4832CDA82F0D3CD">/home/tux/personal/dckt-projects/002-BMA-repo/characters/snipe/snipe2.png</string>
+                          <waypoint time="5.625s" before="constant" after="constant">
+                            <string>../characters/snipe/snipe2.png</string>
                           </waypoint>
-                          <waypoint time="6.45833349s" before="auto" after="auto">
-                            <string guid="21958FAA93877778EC2D2A5FE379CDCA">/home/tux/personal/dckt-projects/002-BMA-repo/characters/snipe/snipe2.png</string>
+                          <waypoint time="6.45833349s" before="constant" after="constant">
+                            <string>../characters/snipe/snipe2.png</string>
                           </waypoint>
                           <waypoint time="7.29166651s" before="constant" after="constant">
                             <string>../characters/snipe/02.png</string>
@@ -1666,7 +1666,7 @@
                 </vector>
               </waypoint>
               <waypoint time="12.91666698s" before="constant" after="constant">
-                <vector>
+                <vector guid="80DFF6E04032D62C8CCEFD0593FF84E6">
                   <x>0.8142685294</x>
                   <y>8.4084072113</y>
                 </vector>

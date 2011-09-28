@@ -380,43 +380,43 @@
                 <param name="br">
                   <animated type="vector">
                     <waypoint time="4.58333349s" before="constant" after="constant">
-                      <vector guid="E1914B34F0CAC614B2538D4517049E44">
+                      <vector>
                         <x>6.4000000954</x>
                         <y>-7.4666666985</y>
                       </vector>
                     </waypoint>
                     <waypoint time="4.79166651s" before="constant" after="constant">
-                      <vector guid="D6AE1618B55643A634F223B7FA5B3FDD">
+                      <vector>
                         <x>6.0877799988</x>
                         <y>-6.5525765419</y>
                       </vector>
                     </waypoint>
                     <waypoint time="5s" before="constant" after="constant">
-                      <vector guid="3C3589AA5125986F0AE8F4F7E3973EF2">
+                      <vector>
                         <x>6.4000000954</x>
                         <y>-7.4666666985</y>
                       </vector>
                     </waypoint>
                     <waypoint time="6.66666651s" before="constant" after="constant">
-                      <vector guid="3C3589AA5125986F0AE8F4F7E3973EF2">
+                      <vector>
                         <x>6.4000000954</x>
                         <y>-7.4666666985</y>
                       </vector>
                     </waypoint>
                     <waypoint time="6.96759272s" before="constant" after="constant">
-                      <vector guid="D6AE1618B55643A634F223B7FA5B3FDD">
+                      <vector>
                         <x>6.0877799988</x>
                         <y>-6.5525765419</y>
                       </vector>
                     </waypoint>
                     <waypoint time="7.20833349s" before="constant" after="constant">
-                      <vector guid="3C3589AA5125986F0AE8F4F7E3973EF2">
+                      <vector>
                         <x>6.4000000954</x>
                         <y>-7.4666666985</y>
                       </vector>
                     </waypoint>
                     <waypoint time="7.375s" before="auto" after="auto">
-                      <vector guid="B2A8571BED551C2D4C71902C630DBA63">
+                      <vector>
                         <x>6.4000000954</x>
                         <y>-7.4666666985</y>
                       </vector>
@@ -430,27 +430,27 @@
                   <real value="1.0000000000"/>
                 </param>
                 <param name="filename">
-                  <animated type="string" guid="3A80B44D0CE8EA2109C0F03B8A694FB1">
+                  <animated type="string">
                     <waypoint time="4.58333349s" before="constant" after="constant">
-                      <string guid="38241D09372604679D8D31BA64DDDDA0">../characters/snipe/02.png</string>
+                      <string>../characters/snipe/02.png</string>
                     </waypoint>
                     <waypoint time="4.79166651s" before="auto" after="auto">
-                      <string guid="8A29AFB3ACB6258DB0958AF282611558">../characters/snipe/02-01.png</string>
+                      <string>../characters/snipe/02-01.png</string>
                     </waypoint>
                     <waypoint time="5s" before="auto" after="auto">
-                      <string guid="54E254771C05BA9C86B9A9EC92ED8E1C">../characters/snipe/02.png</string>
+                      <string>../characters/snipe/02.png</string>
                     </waypoint>
                     <waypoint time="6.66666651s" before="auto" after="auto">
-                      <string guid="49579C02A31CFFD3EF4B30AFABED928A">../characters/snipe/02.png</string>
+                      <string>../characters/snipe/02.png</string>
                     </waypoint>
                     <waypoint time="6.96759272s" before="auto" after="auto">
-                      <string guid="8A29AFB3ACB6258DB0958AF282611558">../characters/snipe/02-01.png</string>
+                      <string>../characters/snipe/02-01.png</string>
                     </waypoint>
                     <waypoint time="7.20833349s" before="auto" after="auto">
-                      <string guid="54E254771C05BA9C86B9A9EC92ED8E1C">../characters/snipe/02.png</string>
+                      <string>../characters/snipe/02.png</string>
                     </waypoint>
                     <waypoint time="7.375s" before="auto" after="auto">
-                      <string guid="DEF28C4B375475B2ED98F632178A1C38">../characters/snipe/02.png</string>
+                      <string>../characters/snipe/02.png</string>
                     </waypoint>
                   </animated>
                 </param>
@@ -486,19 +486,19 @@
           <param name="amount">
             <animated type="angle">
               <waypoint time="4.58333349s" before="auto" after="auto">
-                <angle value="0.000000" guid="FE315E26121203386B7912D4E57D8E1B"/>
+                <angle value="0.000000"/>
               </waypoint>
               <waypoint time="5s" before="auto" after="auto">
-                <angle value="33.958633" guid="5FDBF6041DA1019B24B0283780DA90B7"/>
+                <angle value="33.958633"/>
               </waypoint>
               <waypoint time="6.66666651s" before="auto" after="auto">
-                <angle value="33.958633" guid="97164102C1CAB759C2135ECE0A57B97D"/>
+                <angle value="33.958633"/>
               </waypoint>
               <waypoint time="7.20833349s" before="constant" after="constant">
-                <angle value="33.958633" guid="B6F8113DC9A4C5C309DC1405D0AB312D"/>
+                <angle value="33.958633"/>
               </waypoint>
               <waypoint time="7.375s" before="linear" after="linear">
-                <angle value="33.958633" guid="C603719B95B8486FAFCDDB6DA8C969DF"/>
+                <angle value="33.958633"/>
               </waypoint>
             </animated>
           </param>
@@ -534,19 +534,19 @@
     <param name="origin">
       <animated type="vector">
         <waypoint time="6.66666651s" before="auto" after="auto">
-          <vector guid="28CADCD6E465F174015B1DECF2BC5FED">
+          <vector>
             <x>-1.7142857313</x>
             <y>-2.5767326355</y>
           </vector>
         </waypoint>
         <waypoint time="7.20833349s" before="auto" after="auto">
-          <vector guid="7D4E3EEF5E26ED2C4BF396134A31F669">
+          <vector>
             <x>-1.7142857313</x>
             <y>-2.5767326355</y>
           </vector>
         </waypoint>
         <waypoint time="7.375s" before="auto" after="auto">
-          <vector guid="480DD362B0B2774CD537130021CBF404">
+          <vector>
             <x>-1.6846010685</x>
             <y>-2.3391089439</y>
           </vector>
@@ -600,13 +600,13 @@
           <param name="amount">
             <animated type="angle">
               <waypoint time="6.66666651s" before="auto" after="auto">
-                <angle value="-7.005558" guid="8A2D0F307A8244EC24CAA37257E2ACFF"/>
+                <angle value="-7.005558"/>
               </waypoint>
               <waypoint time="7.20833349s" before="auto" after="auto">
-                <angle value="-7.005558" guid="832C9E94488834C00853BE411BA901EE"/>
+                <angle value="-7.005558"/>
               </waypoint>
               <waypoint time="7.375s" before="auto" after="auto">
-                <angle value="-55.086071" guid="359A599477E35837C400F15E244F7BC5"/>
+                <angle value="-55.086071"/>
               </waypoint>
             </animated>
           </param>
@@ -625,19 +625,19 @@
     <param name="focus">
       <animated type="vector">
         <waypoint time="6.66666651s" before="auto" after="auto">
-          <vector guid="E0554E770735696180CF4B213AB4DD69">
+          <vector>
             <x>0.0000000000</x>
             <y>0.0000000000</y>
           </vector>
         </waypoint>
         <waypoint time="7.20833349s" before="auto" after="auto">
-          <vector guid="AC8841B442CE0C754993166A7B48E163">
+          <vector>
             <x>0.0000000000</x>
             <y>0.0000000000</y>
           </vector>
         </waypoint>
         <waypoint time="7.375s" before="auto" after="auto">
-          <vector guid="46ED9DEB5C7DD8AAB6E146A4F45F43D0">
+          <vector>
             <x>0.2374768108</x>
             <y>0.0000000000</y>
           </vector>
@@ -664,37 +664,37 @@
           </vector>
         </waypoint>
         <waypoint time="1.54166663s" before="auto" after="constant">
-          <vector guid="89F97029FC5BFB4D15CB4E2175B2D6CF">
+          <vector>
             <x>-1.1205936670</x>
             <y>-3.1520481110</y>
           </vector>
         </waypoint>
         <waypoint time="4.58333349s" before="auto" after="auto">
-          <vector guid="FAEC623A5DCF75DFB337BDBE7D598D1F">
+          <vector>
             <x>-1.1205936670</x>
             <y>-3.1520481110</y>
           </vector>
         </waypoint>
         <waypoint time="5s" before="auto" after="auto">
-          <vector guid="A30AEB4D049A4F71CEA8610113C5D211">
+          <vector>
             <x>-1.1205936670</x>
             <y>-4.8691534996</y>
           </vector>
         </waypoint>
         <waypoint time="6.66666651s" before="auto" after="auto">
-          <vector guid="0B3E7B23FAB0A02ACCB594832F6DC50A">
+          <vector>
             <x>-1.1205936670</x>
             <y>-4.8691534996</y>
           </vector>
         </waypoint>
         <waypoint time="7.20833349s" before="auto" after="auto">
-          <vector guid="C856172217210FD980DB603BD2E6D2CF">
+          <vector>
             <x>-1.1205936670</x>
             <y>-4.8691534996</y>
           </vector>
         </waypoint>
         <waypoint time="7.375s" before="auto" after="auto">
-          <vector guid="68D3BA5EEF2F1D64C636219EBAAEF804">
+          <vector>
             <x>-1.1205936670</x>
             <y>-4.8691534996</y>
           </vector>
@@ -1630,7 +1630,7 @@
     </param>
     <param name="canvas">
       <canvas end-time="5s">
-        <layer type="PasteCanvas" active="true" version="0.1">
+        <layer type="PasteCanvas" active="false" version="0.1">
           <param name="z_depth">
             <real value="0.0000000000"/>
           </param>
@@ -1649,6 +1649,88 @@
           <param name="canvas" use="renegade.sif#"/>
           <param name="zoom">
             <real value="0.0000000000"/>
+          </param>
+          <param name="time_offset">
+            <time value="0s"/>
+          </param>
+          <param name="children_lock">
+            <bool value="false" static="true"/>
+          </param>
+          <param name="focus">
+            <vector>
+              <x>0.0000000000</x>
+              <y>0.0000000000</y>
+            </vector>
+          </param>
+        </layer>
+        <layer type="PasteCanvas" active="true" version="0.1">
+          <param name="z_depth">
+            <real value="0.0000000000"/>
+          </param>
+          <param name="amount">
+            <real value="1.0000000000"/>
+          </param>
+          <param name="blend_method">
+            <integer value="0"/>
+          </param>
+          <param name="origin">
+            <vector>
+              <x>-0.1048807204</x>
+              <y>0.6916200519</y>
+            </vector>
+          </param>
+          <param name="canvas">
+            <canvas>
+              <layer type="import" active="true" version="0.1" desc="jeep-renegade-big.png">
+                <param name="z_depth">
+                  <real value="0.0000000000"/>
+                </param>
+                <param name="amount">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="blend_method">
+                  <integer value="0"/>
+                </param>
+                <param name="tl">
+                  <vector>
+                    <x>-3.1490292549</x>
+                    <y>1.7962040901</y>
+                  </vector>
+                </param>
+                <param name="br">
+                  <vector>
+                    <x>3.6806135178</x>
+                    <y>-2.2509920597</y>
+                  </vector>
+                </param>
+                <param name="c">
+                  <integer value="1" static="true"/>
+                </param>
+                <param name="gamma_adjust">
+                  <real value="1.0000000000"/>
+                </param>
+                <param name="filename">
+                  <string>../objects/jeep-renegade-big.png</string>
+                </param>
+                <param name="time_offset">
+                  <time value="0s"/>
+                </param>
+              </layer>
+              <layer type="rotate" active="true" version="0.1">
+                <param name="origin">
+                  <vector>
+                    <x>0.0000000000</x>
+                    <y>0.0000000000</y>
+                  </vector>
+                </param>
+                <param name="amount">
+                  <angle value="2.211162"/>
+                </param>
+              </layer>
+            </canvas>
+          </param>
+          <param name="zoom">
+            <real value="0.1000000000"/>
           </param>
           <param name="time_offset">
             <time value="0s"/>
@@ -1712,19 +1794,19 @@
           </vector>
         </waypoint>
         <waypoint time="6.66666651s" before="auto" after="auto">
-          <vector guid="CBA3DB4A07A1B7C083683C40B90704FA">
+          <vector>
             <x>0.7792207599</x>
             <y>0.1410891116</y>
           </vector>
         </waypoint>
         <waypoint time="7.20833349s" before="auto" after="auto">
-          <vector guid="F1BDCFA48B5003F272D9ADBE63D6E40C">
+          <vector>
             <x>0.7792207599</x>
             <y>0.1410891116</y>
           </vector>
         </waypoint>
         <waypoint time="7.375s" before="auto" after="auto">
-          <vector guid="5A0F79C118CBF80E43B26E5164BC5DBE">
+          <vector>
             <x>0.7792207599</x>
             <y>0.1410891116</y>
           </vector>
@@ -1884,13 +1966,13 @@
                 <string>../characters/mh-profile/03.png</string>
               </waypoint>
               <waypoint time="6.66666651s" before="auto" after="auto">
-                <string guid="AFA35CDE5CFDCE1E7B556E4C54763303">../characters/mh-profile/03.png</string>
+                <string>../characters/mh-profile/03.png</string>
               </waypoint>
               <waypoint time="7.20833349s" before="auto" after="auto">
-                <string guid="CF1761CDA01FA86A07901B4DBF326BAB">../characters/mh-profile/03.png</string>
+                <string>../characters/mh-profile/03.png</string>
               </waypoint>
               <waypoint time="7.375s" before="auto" after="auto">
-                <string guid="DEC768E31F187A45F0C3E9100F941DBE">../characters/mh-profile/03.png</string>
+                <string>../characters/mh-profile/03.png</string>
               </waypoint>
             </animated>
           </param>
@@ -1926,19 +2008,19 @@
                 </vector>
               </waypoint>
               <waypoint time="6.66666651s" before="auto" after="auto">
-                <vector guid="CD20F90664FB74CB998B123147F7A27A">
+                <vector>
                   <x>-1.0000000000</x>
                   <y>1.0000000000</y>
                 </vector>
               </waypoint>
               <waypoint time="7.20833349s" before="auto" after="auto">
-                <vector guid="AA67EE348D530AF66AB13E14BC515321">
+                <vector>
                   <x>-1.0000000000</x>
                   <y>1.0000000000</y>
                 </vector>
               </waypoint>
               <waypoint time="7.375s" before="auto" after="auto">
-                <vector guid="46CDC0E67CBFA08B952B060C526F3BFC">
+                <vector>
                   <x>-1.0000000000</x>
                   <y>1.0000000000</y>
                 </vector>
@@ -1980,13 +2062,13 @@
                 <angle value="-26.443394"/>
               </waypoint>
               <waypoint time="6.66666651s" before="auto" after="auto">
-                <angle value="-26.443394" guid="D1FBE3C548B46B7A195115DC2082A600"/>
+                <angle value="-26.443394"/>
               </waypoint>
               <waypoint time="7.20833349s" before="linear" after="linear">
-                <angle value="-26.443394" guid="F94D283D191542A42308493D49D757B1"/>
+                <angle value="-26.443394"/>
               </waypoint>
               <waypoint time="7.375s" before="linear" after="linear">
-                <angle value="-26.443394" guid="473740913775A6F1DBF324453B9D2B2F"/>
+                <angle value="-26.443394"/>
               </waypoint>
             </animated>
           </param>
