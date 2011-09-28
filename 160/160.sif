@@ -689,37 +689,37 @@
           <param name="br">
             <animated type="vector">
               <waypoint time="0s" before="auto" after="auto">
-                <vector>
+                <vector guid="E86878E8B27EAB3F814CF4853B12DED9">
                   <x>6.0071849823</x>
                   <y>-6.2750406265</y>
                 </vector>
               </waypoint>
               <waypoint time="1s" before="constant" after="constant">
-                <vector>
+                <vector guid="5D3B2CBFD261AFCF792A22E5A67ABB49">
                   <x>6.8442282677</x>
                   <y>-7.1796154976</y>
                 </vector>
               </waypoint>
               <waypoint time="2s" before="auto" after="auto">
-                <vector>
+                <vector guid="577386A088E28D7D3EE5BFBC95F38D12">
                   <x>6.8442282677</x>
                   <y>-7.1796154976</y>
                 </vector>
               </waypoint>
               <waypoint time="2.70833325s" before="auto" after="auto">
-                <vector>
+                <vector guid="C94DA70DC94671167422F6B65544D850">
                   <x>6.8442282677</x>
                   <y>-7.1796154976</y>
                 </vector>
               </waypoint>
               <waypoint time="3.04166675s" before="auto" after="auto">
-                <vector>
+                <vector guid="9D483EE6E9A0066AB2D5412C2315DF5D">
                   <x>6.8442282677</x>
                   <y>-7.1796154976</y>
                 </vector>
               </waypoint>
               <waypoint time="3.29166675s" before="constant" after="constant">
-                <vector>
+                <vector guid="5D3B2CBFD261AFCF792A22E5A67ABB49">
                   <x>6.8442282677</x>
                   <y>-7.1796154976</y>
                 </vector>
@@ -735,22 +735,22 @@
           <param name="filename">
             <animated type="string">
               <waypoint time="0s" before="auto" after="auto">
-                <string>../characters/mh/head-01.png</string>
+                <string guid="3EA7DC1187AFB0C7F280890B608F353F">../characters/mh/head-01.png</string>
               </waypoint>
               <waypoint time="1s" before="auto" after="auto">
-                <string>../characters/mh/head-09.png</string>
+                <string guid="3B36F324E6A79449F64354AF7187C903">../characters/mh/head-09.png</string>
               </waypoint>
               <waypoint time="2s" before="auto" after="auto">
-                <string>../characters/mh/head-10.png</string>
+                <string guid="06558FBBE7394F940161B0AC8162989D">../characters/mh/head-10.png</string>
               </waypoint>
               <waypoint time="2.70833325s" before="auto" after="auto">
-                <string>../characters/mh/head-10.png</string>
+                <string guid="5D190CB619A5168AC397A771129582DE">../characters/mh/head-10.png</string>
               </waypoint>
               <waypoint time="3.04166675s" before="auto" after="auto">
-                <string>../characters/mh/head-10.png</string>
+                <string guid="FD6875C1398DDFA03D333E9C67117D44">../characters/mh/head-10.png</string>
               </waypoint>
               <waypoint time="3.29166675s" before="auto" after="auto">
-                <string>../characters/mh/head-09.png</string>
+                <string guid="3B36F324E6A79449F64354AF7187C903">../characters/mh/head-09.png</string>
               </waypoint>
             </animated>
           </param>
@@ -762,19 +762,19 @@
           <param name="origin">
             <animated type="vector">
               <waypoint time="2.70833325s" before="auto" after="auto">
-                <vector>
+                <vector guid="C26D071FBC966DF45E6EA3E7FA9844ED">
                   <x>0.3898602426</x>
                   <y>-5.2403531075</y>
                 </vector>
               </waypoint>
               <waypoint time="3.04166675s" before="auto" after="auto">
-                <vector>
+                <vector guid="E733DCD0B244CA412C74A559E1E6B4D2">
                   <x>0.4395092428</x>
                   <y>-5.7375998497</y>
                 </vector>
               </waypoint>
               <waypoint time="3.29166675s" before="auto" after="auto">
-                <vector>
+                <vector guid="8C6F302F8FCF0EBEE9EDBD6CE81366C0">
                   <x>0.3898602426</x>
                   <y>-5.2403531075</y>
                 </vector>
@@ -784,13 +784,13 @@
           <param name="amount">
             <animated type="angle">
               <waypoint time="2.70833325s" before="auto" after="auto">
-                <angle value="0.000000"/>
+                <angle value="0.000000" guid="398B4D7555A6E24FE1669C1A5C25D787"/>
               </waypoint>
               <waypoint time="3.04166675s" before="auto" after="auto">
-                <angle value="15.277287"/>
+                <angle value="15.277287" guid="78658716945BB45171E7E4D58EA3133F"/>
               </waypoint>
               <waypoint time="3.29166675s" before="linear" after="linear">
-                <angle value="0.000000"/>
+                <angle value="0.000000" guid="B09643611DCC6420B1650F37BEE33B72"/>
               </waypoint>
             </animated>
           </param>
@@ -933,34 +933,34 @@
           <param name="filename">
             <animated type="string">
               <waypoint time="0s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="DC74603200AFBB906D79E56416F5FC0C">../characters/stritracer/60.png</string>
               </waypoint>
               <waypoint time="0.625s" before="auto" after="auto">
-                <string>../characters/stritracer/60-2.png</string>
+                <string guid="03198B1EA727E39555CDAE140C2D6309">../characters/stritracer/60-2.png</string>
               </waypoint>
               <waypoint time="1s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="114222237581B3ADCBD0FB0C6EF4AD4C">../characters/stritracer/60.png</string>
               </waypoint>
               <waypoint time="2.70833325s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="EDF40CAE129EBB2F349B0E570482615D">../characters/stritracer/60.png</string>
               </waypoint>
               <waypoint time="2.75s" before="auto" after="auto">
-                <string>../characters/stritracer/60-2.png</string>
+                <string guid="B059768708323491A7B156BCC8C5E0C3">../characters/stritracer/60-2.png</string>
               </waypoint>
               <waypoint time="2.95833325s" before="auto" after="auto">
-                <string>../characters/stritracer/60-2.png</string>
+                <string guid="7192D346E3BFBC70F323613617EB3432">../characters/stritracer/60-2.png</string>
               </waypoint>
               <waypoint time="3.04166675s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="26A10A8E1E46104CACE71333F7B1A590">../characters/stritracer/60.png</string>
               </waypoint>
               <waypoint time="3.29166675s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="767B7CA89DA15910304CCBB5A350F03F">../characters/stritracer/60.png</string>
               </waypoint>
               <waypoint time="3.66666675s" before="auto" after="auto">
-                <string>../characters/stritracer/60-2.png</string>
+                <string guid="105BAC3EFB1BB9C93009486348EC46B3">../characters/stritracer/60-2.png</string>
               </waypoint>
               <waypoint time="4s" before="auto" after="auto">
-                <string>../characters/stritracer/60.png</string>
+                <string guid="DA3DE3AECCC242D22742134628A9E4C9">../characters/stritracer/60.png</string>
               </waypoint>
             </animated>
           </param>
@@ -999,19 +999,19 @@
     <param name="origin">
       <animated type="vector">
         <waypoint time="2.70833325s" before="auto" after="auto">
-          <vector>
+          <vector guid="75CC43E2DC998C425D5F649BF8B60F0B">
             <x>-0.1643835604</x>
             <y>-1.8292683363</y>
           </vector>
         </waypoint>
         <waypoint time="3.04166675s" before="auto" after="auto">
-          <vector>
+          <vector guid="E7D8BF412128D23BE12B17C6E1DF69DA">
             <x>-0.1643835604</x>
             <y>-1.8292683363</y>
           </vector>
         </waypoint>
         <waypoint time="3.29166675s" before="auto" after="auto">
-          <vector>
+          <vector guid="8F9893430FBB11B91EA0390EF77F3992">
             <x>-0.1643835604</x>
             <y>0.0731707290</y>
           </vector>
@@ -1218,31 +1218,31 @@
     <param name="origin">
       <animated type="vector">
         <waypoint time="2.70833325s" before="auto" after="auto">
-          <vector>
+          <vector guid="888E42269D7E0078D89419AEBBABF84A">
             <x>0.0000000000</x>
             <y>-1.6097561121</y>
           </vector>
         </waypoint>
         <waypoint time="3.04166675s" before="auto" after="auto">
-          <vector>
+          <vector guid="055FDF2750FAD17DDB46CD1012DC8F78">
             <x>0.0000000000</x>
             <y>-1.6097561121</y>
           </vector>
         </waypoint>
         <waypoint time="3.29166675s" before="auto" after="auto">
-          <vector>
+          <vector guid="463D751D5BCBA4ADCCE2740A918FCD85">
             <x>0.0000000000</x>
             <y>-1.6097561121</y>
           </vector>
         </waypoint>
         <waypoint time="4s" before="auto" after="auto">
-          <vector>
+          <vector guid="22865D7DA2DF4A352612448E398B0DB3">
             <x>0.0000000000</x>
             <y>-1.6097561121</y>
           </vector>
         </waypoint>
         <waypoint time="4.25s" before="auto" after="auto">
-          <vector>
+          <vector guid="0D42D99796B46651747146CB2796321D">
             <x>-0.0547945201</x>
             <y>0.2560975552</y>
           </vector>
