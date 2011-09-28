@@ -1,9 +1,10 @@
 <?xml version="1.0"?>
-<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="5s" bgcolor="0.500000 0.500000 0.500000 1.000000">
+<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="7s 19f" bgcolor="0.500000 0.500000 0.500000 1.000000">
   <name>Synfig Animation 1</name>
   <keyframe time="0f"/>
   <keyframe time="18f"/>
   <keyframe time="1s 1f"/>
+  <keyframe time="4s 21f"/>
   <layer type="PasteCanvas" active="true" version="0.1" desc="bg">
     <param name="z_depth">
       <real value="0.0000000000"/>
@@ -21,7 +22,7 @@
       </vector>
     </param>
     <param name="canvas">
-      <canvas>
+      <canvas end-time="5s">
         <layer type="linear_gradient" active="true" version="0.0" desc="Gradient026">
           <param name="z_depth">
             <real value="0.0000000000"/>
@@ -263,7 +264,7 @@
       </animated>
     </param>
     <param name="canvas">
-      <canvas>
+      <canvas end-time="5s">
         <layer type="PasteCanvas" active="true" version="0.1" desc="sr">
           <param name="z_depth">
             <real value="0.0000000000"/>
@@ -930,7 +931,7 @@
       <time value="0s"/>
     </param>
     <param name="children_lock">
-      <bool value="false" static="true"/>
+      <bool value="true" static="true"/>
     </param>
     <param name="focus">
       <vector>
@@ -956,7 +957,7 @@
       </vector>
     </param>
     <param name="canvas">
-      <canvas>
+      <canvas end-time="5s">
         <layer type="PasteCanvas" active="true" version="0.1">
           <param name="z_depth">
             <real value="0.0000000000"/>

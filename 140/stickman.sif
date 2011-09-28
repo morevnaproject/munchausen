@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="5s" bgcolor="0.500000 0.500000 0.500000 1.000000">
+<canvas version="0.7" width="480" height="270" xres="2834.645752" yres="2834.645752" view-box="-4.000000 2.250000 4.000000 -2.250000" antialias="1" fps="24.000" begin-time="0f" end-time="7s 19f" bgcolor="0.500000 0.500000 0.500000 1.000000">
   <name>Stickman</name>
   <desc>  </desc>
   <meta name="grid_show" content="0"/>
@@ -10,6 +10,7 @@
   <meta name="onion_skin" content="0"/>
   <keyframe time="1s 16f"/>
   <keyframe time="2s"/>
+  <keyframe time="4s 21f"/>
   <defs>
     <real value="1.2308500828" id="body-r"/>
     <angle value="90.970901" id="body-t"/>
@@ -36,13 +37,13 @@
     <real value="0.2406535434" id="toe1-r"/>
     <animated type="vector" id="head" guid="B2086D6BDCCA8BC016F1B5307D0182DF">
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <vector guid="E6C256D3BD355987EEF58C596FE65BF4">
+        <vector>
           <x>0.1538975090</x>
           <y>0.0172518939</y>
         </vector>
       </waypoint>
       <waypoint time="2s" before="auto" after="auto">
-        <vector guid="0A49C3882B194ADD7FB7FDB2786BDBBE">
+        <vector>
           <x>0.3059181869</x>
           <y>-0.0516073778</y>
         </vector>
@@ -61,84 +62,84 @@
     </vector>
     <animated type="real" id="elbow2-r" guid="00415109785AA543EA3C3745F36C1C96">
       <waypoint time="0.04166667s" before="auto" after="auto">
-        <real value="0.9621705811" guid="9F8F0C2F586EBBEA7A2FC7C25B5E833F"/>
+        <real value="0.9621705811"/>
       </waypoint>
       <waypoint time="0.25s" before="auto" after="auto">
-        <real value="1.1623594204" guid="5E543FEBD90314DF1098F782E1859627"/>
+        <real value="1.1623594204"/>
       </waypoint>
       <waypoint time="0.33333334s" before="auto" after="auto">
-        <real value="1.1416369781" guid="7CACAA6AF0F21844D40B1B8EF15BE084"/>
+        <real value="1.1416369781"/>
       </waypoint>
       <waypoint time="0.5s" before="auto" after="auto">
-        <real value="1.0672183104" guid="C0C8AD1D6AD536928A3E3EA610263A46"/>
+        <real value="1.0672183104"/>
       </waypoint>
       <waypoint time="0.66666669s" before="auto" after="auto">
-        <real value="0.9879575050" guid="153BDB3A9A0D529FEC25C28F862C42B3"/>
+        <real value="0.9879575050"/>
       </waypoint>
       <waypoint time="0.79166669s" before="auto" after="auto">
-        <real value="1.1068714665" guid="21F0532C529BF32226F493706071D3E9"/>
+        <real value="1.1068714665"/>
       </waypoint>
       <waypoint time="0.91666669s" before="auto" after="auto">
-        <real value="1.0672183104" guid="801129BF48DAE83E0E04D815DB33EC6B"/>
+        <real value="1.0672183104"/>
       </waypoint>
       <waypoint time="1s" before="auto" after="auto">
-        <real value="1.0460661835" guid="713FE8DF6BF05DF6C0C582CFE449C690"/>
+        <real value="1.0460661835"/>
       </waypoint>
       <waypoint time="1.125s" before="auto" after="auto">
-        <real value="0.9339186253" guid="B2EE79008F62DEB004E2E7529EC54414"/>
+        <real value="0.9339186253"/>
       </waypoint>
       <waypoint time="1.29166663s" before="auto" after="auto">
-        <real value="1.0600931579" guid="CC50E9D5F6FF4AB86AC96B562BC22D89"/>
+        <real value="1.0600931579"/>
       </waypoint>
       <waypoint time="1.41666663s" before="auto" after="auto">
-        <real value="0.9852809886" guid="29D7AE5C3012B6BC53D750166DC74BD8"/>
+        <real value="0.9852809886"/>
       </waypoint>
       <waypoint time="1.58333337s" before="auto" after="auto">
-        <real value="1.0610083735" guid="3B2670CE29B3C2500A1DBA7483BA83D5"/>
+        <real value="1.0610083735"/>
       </waypoint>
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <real value="1.0743227172" guid="2C1706F16C65DA6D6E42F2537172A99E"/>
+        <real value="1.0743227172"/>
       </waypoint>
     </animated>
     <animated type="angle" id="elbow2-t" guid="C333153BA9599E894DAF19B7EC9F5F20">
       <waypoint time="0.04166667s" before="auto" after="auto">
-        <angle value="-125.055267" guid="E31CFB801307ECE87CC3719CFCD5BC3C"/>
+        <angle value="-125.055267"/>
       </waypoint>
       <waypoint time="0.25s" before="auto" after="auto">
-        <angle value="-139.053391" guid="AF78E958A5058C06369D42796F5E1B0D"/>
+        <angle value="-139.053391"/>
       </waypoint>
       <waypoint time="0.33333334s" before="auto" after="auto">
-        <angle value="-143.463669" guid="C64DE63A03F604E87F2E1BDD2750C948"/>
+        <angle value="-143.463669"/>
       </waypoint>
       <waypoint time="0.5s" before="auto" after="auto">
-        <angle value="-129.264999" guid="7776B28D01EDDB17752DA87AB42DA188"/>
+        <angle value="-129.264999"/>
       </waypoint>
       <waypoint time="0.66666669s" before="auto" after="auto">
-        <angle value="-136.256638" guid="E0BC14B3811B46FB383D53AAC76D533E"/>
+        <angle value="-136.256638"/>
       </waypoint>
       <waypoint time="0.79166669s" before="auto" after="auto">
-        <angle value="-140.701950" guid="B17390BA3E490E65554E4D27A85D423A"/>
+        <angle value="-140.701950"/>
       </waypoint>
       <waypoint time="0.91666669s" before="auto" after="auto">
-        <angle value="-129.264999" guid="F31C78AB16106007D054ABB2C6607E26"/>
+        <angle value="-129.264999"/>
       </waypoint>
       <waypoint time="1s" before="auto" after="auto">
-        <angle value="-137.817917" guid="149BC43C68A395F9ADB605901AACA20B"/>
+        <angle value="-137.817917"/>
       </waypoint>
       <waypoint time="1.125s" before="auto" after="auto">
-        <angle value="-124.720810" guid="81D94BE0FEF2E234664CBA882362B9C6"/>
+        <angle value="-124.720810"/>
       </waypoint>
       <waypoint time="1.29166663s" before="auto" after="auto">
-        <angle value="-137.015228" guid="6199B7739AE77C1D1D0627266E16979C"/>
+        <angle value="-137.015228"/>
       </waypoint>
       <waypoint time="1.41666663s" before="auto" after="auto">
-        <angle value="-122.747421" guid="1A3CCA915C4AADF06D87D4BB424C93A7"/>
+        <angle value="-122.747421"/>
       </waypoint>
       <waypoint time="1.58333337s" before="auto" after="auto">
-        <angle value="-138.569794" guid="D807EE9E513F5758567A1ADBC3D7575A"/>
+        <angle value="-138.569794"/>
       </waypoint>
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <angle value="-136.233673" guid="0919676581B565E33BD530BE3520070D"/>
+        <angle value="-136.233673"/>
       </waypoint>
     </animated>
     <real value="4.1191311639" id="wrist2-r"/>
@@ -150,84 +151,84 @@
     <angle value="-5.790529" id="knee1-t"/>
     <animated type="real" id="elbow1-r" guid="3F2F901B697A5D1EDFC296BCDD9E8D81">
       <waypoint time="0.04166667s" before="auto" after="auto">
-        <real value="1.0832247469" guid="9640CA64F4E7B479640C26FF51E7BD6B"/>
+        <real value="1.0832247469"/>
       </waypoint>
       <waypoint time="0.25s" before="auto" after="auto">
-        <real value="0.9989299319" guid="44340C6C723CDFF06E82BEA061D3D4FE"/>
+        <real value="0.9989299319"/>
       </waypoint>
       <waypoint time="0.33333334s" before="auto" after="auto">
-        <real value="0.8390281235" guid="3060C2A340098A839F6120846379F5B2"/>
+        <real value="0.8390281235"/>
       </waypoint>
       <waypoint time="0.5s" before="auto" after="auto">
-        <real value="0.9087963454" guid="1706F803F33B1249E6DD369464FC6E46"/>
+        <real value="0.9087963454"/>
       </waypoint>
       <waypoint time="0.66666669s" before="auto" after="auto">
-        <real value="0.9115939803" guid="5C321BAB27302DC1BD713EFB109815DA"/>
+        <real value="0.9115939803"/>
       </waypoint>
       <waypoint time="0.79166669s" before="auto" after="auto">
-        <real value="1.0124433337" guid="86CCBE9BAECD064EBAB3E929AEE2316B"/>
+        <real value="1.0124433337"/>
       </waypoint>
       <waypoint time="0.91666669s" before="auto" after="auto">
-        <real value="0.9262043705" guid="C0584DB35248B7BA61BF07B4AFFAED4B"/>
+        <real value="0.9262043705"/>
       </waypoint>
       <waypoint time="1s" before="auto" after="auto">
-        <real value="0.8403182295" guid="AD4750CB713E45AED3732AB2CEB950AE"/>
+        <real value="0.8403182295"/>
       </waypoint>
       <waypoint time="1.125s" before="auto" after="auto">
-        <real value="0.9115939803" guid="F00E5259444B7E3A58DEFDA0FB9B1126"/>
+        <real value="0.9115939803"/>
       </waypoint>
       <waypoint time="1.29166663s" before="auto" after="auto">
-        <real value="0.8497774323" guid="FF6C7AD08EA74D5383BC8F9F9757781F"/>
+        <real value="0.8497774323"/>
       </waypoint>
       <waypoint time="1.41666663s" before="auto" after="auto">
-        <real value="0.9823028726" guid="4356A245A8A4004A1F6FD7D1DCB60E58"/>
+        <real value="0.9823028726"/>
       </waypoint>
       <waypoint time="1.58333337s" before="auto" after="auto">
-        <real value="1.0544407628" guid="8E7DA6AB09147A610B76C980F240037C"/>
+        <real value="1.0544407628"/>
       </waypoint>
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <real value="1.0349400499" guid="A73CF706134FD6334F2D2998803E2386"/>
+        <real value="1.0349400499"/>
       </waypoint>
     </animated>
     <animated type="angle" id="elbow1-t" guid="C05AFA53CB218A463E036C27FFF53567">
       <waypoint time="0.04166667s" before="auto" after="auto">
-        <angle value="-136.998352" guid="A6BC6A1A18AF7C4257B289E815F53A52"/>
+        <angle value="-136.998352"/>
       </waypoint>
       <waypoint time="0.25s" before="auto" after="auto">
-        <angle value="-132.128403" guid="311AFBBB1337A37BFC5FD66500EA4116"/>
+        <angle value="-132.128403"/>
       </waypoint>
       <waypoint time="0.33333334s" before="auto" after="auto">
-        <angle value="-138.280914" guid="D91E21A44D3544A2B22D6587E4EB2BE9"/>
+        <angle value="-138.280914"/>
       </waypoint>
       <waypoint time="0.5s" before="auto" after="auto">
-        <angle value="-150.041550" guid="E36CEB12129602ECDAB649A9C6C98D33"/>
+        <angle value="-150.041550"/>
       </waypoint>
       <waypoint time="0.66666669s" before="auto" after="auto">
-        <angle value="-139.002594" guid="29452F707480776BE0CCCB2D281CF343"/>
+        <angle value="-139.002594"/>
       </waypoint>
       <waypoint time="0.79166669s" before="auto" after="auto">
-        <angle value="-132.995789" guid="AD2D2AACDAE7FA9395118F577F88B5BC"/>
+        <angle value="-132.995789"/>
       </waypoint>
       <waypoint time="0.91666669s" before="auto" after="auto">
-        <angle value="-132.718491" guid="B4C49CBEEA7BD7C13749102D3D88DD29"/>
+        <angle value="-132.718491"/>
       </waypoint>
       <waypoint time="1s" before="auto" after="auto">
-        <angle value="-120.420288" guid="DE27E835E0D6EBB23BF79FDDF5AEE061"/>
+        <angle value="-120.420288"/>
       </waypoint>
       <waypoint time="1.125s" before="auto" after="auto">
-        <angle value="-139.002594" guid="B7CED7D496A03D0F0440C73718A10C23"/>
+        <angle value="-139.002594"/>
       </waypoint>
       <waypoint time="1.29166663s" before="auto" after="auto">
-        <angle value="-126.562462" guid="7B1D3B77281D7ED9539A5BAEF8674282"/>
+        <angle value="-126.562462"/>
       </waypoint>
       <waypoint time="1.41666663s" before="auto" after="auto">
-        <angle value="-136.264252" guid="492622B1569C00FC08B27E5C817FFE77"/>
+        <angle value="-136.264252"/>
       </waypoint>
       <waypoint time="1.58333337s" before="auto" after="auto">
-        <angle value="-137.026413" guid="5D2B904F78F796CDF2FA871B5D2B874B"/>
+        <angle value="-137.026413"/>
       </waypoint>
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <angle value="-121.631813" guid="3FBF150CB9E8EB769670E92C356FF22A"/>
+        <angle value="-121.631813"/>
       </waypoint>
     </animated>
     <angle value="84.854683" id="toe1-t"/>
@@ -236,18 +237,18 @@
     <real value="1.0000000000" id="fillers-amount"/>
     <animated type="angle" id="head-t" guid="FC316EA47CD1C7B8DFBD163ADC58CF48">
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <angle value="-36.137337" guid="938C14BD8000C0962AD6D7B41DCC679E"/>
+        <angle value="-36.137337"/>
       </waypoint>
       <waypoint time="2s" before="auto" after="auto">
-        <angle value="-3.048964" guid="14DC128DE7F028A41BE4B61A1F8AE308"/>
+        <angle value="-3.048964"/>
       </waypoint>
     </animated>
     <animated type="real" id="head-r" guid="D1CD5C76BB1FDE58672AC234DE80BC26">
       <waypoint time="1.66666663s" before="auto" after="auto">
-        <real value="1.0956753560" guid="9AE2EAB8DCD323804A853DEBF2AB1229"/>
+        <real value="1.0956753560"/>
       </waypoint>
       <waypoint time="2s" before="auto" after="auto">
-        <real value="1.1219222118" guid="EEB88B724A0F37EE74E538D6E846EE97"/>
+        <real value="1.1219222118"/>
       </waypoint>
     </animated>
   </defs>
@@ -268,7 +269,7 @@
       </vector>
     </param>
     <param name="canvas">
-      <canvas>
+      <canvas end-time="5s">
         <layer type="PasteCanvas" active="true" version="0.1" desc="hip1">
           <param name="z_depth">
             <real value="0.0000000000"/>
@@ -1863,7 +1864,80 @@
                         <real value="1.0000000000"/>
                       </param>
                       <param name="filename">
-                        <string>../characters/haker-profile/golova.png</string>
+                        <animated type="string">
+                          <waypoint time="4.875s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="5s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="5.125s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="5.25s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="5.375s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="5.5s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="5.625s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="5.75s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="5.875s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="6s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="6.125s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="6.25s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="6.375s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="6.5s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="6.625s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="6.75s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="6.875s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="7s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="7.125s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="7.25s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="7.375s" before="auto" after="auto">
+                            <string guid="DEBF8FEFC42FBE367C03CCC348144E2A">../characters/haker-profile/golova-02.png</string>
+                          </waypoint>
+                          <waypoint time="7.5s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                          <waypoint time="7.625s" before="auto" after="auto">
+                            <string guid="DDBE9584C1B6900D8AAEC1D1581C722D">../characters/haker-profile/golova-01.png</string>
+                          </waypoint>
+                          <waypoint time="7.75s" before="auto" after="auto">
+                            <string guid="AFF8510101CF734C653F69EE539D1F2F">../characters/haker-profile/golova.png</string>
+                          </waypoint>
+                        </animated>
                       </param>
                       <param name="time_offset">
                         <time value="0s"/>
