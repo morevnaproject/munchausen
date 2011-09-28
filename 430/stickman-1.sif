@@ -2257,7 +2257,7 @@
                         <real value="1.0000000000"/>
                       </param>
                       <param name="filename">
-                        <string>/srv/projects/002-BMA/characters/kach/008-4.png</string>
+                        <string>../characters/kach/008-4.png</string>
                       </param>
                       <param name="time_offset">
                         <time value="0s"/>
