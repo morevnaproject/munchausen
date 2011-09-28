@@ -61,14 +61,14 @@
     <param name="origin">
       <animated type="vector">
         <waypoint time="0s" before="auto" after="auto">
-          <vector guid="CD222A389C4042D242B1DC4C06218609">
+          <vector>
             <x>0.4146207869</x>
             <y>-0.0365279019</y>
           </vector>
         </waypoint>
         <waypoint time="2.95833325s" before="auto" after="auto">
-          <vector guid="CC6C9C741648522AF5BDDC9CA0B06260">
-            <x>-1.9037466049</x>
+          <vector guid="0870F21731CB46D615C1DC92F9FE896E">
+            <x>-1.0843797922</x>
             <y>-0.0039192052</y>
           </vector>
         </waypoint>
