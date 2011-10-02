@@ -37,41 +37,6 @@
           </param>
           <param name="canvas">
             <canvas>
-              <layer type="import" active="false" version="0.1" desc="title.png">
-                <param name="z_depth">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="amount">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="blend_method">
-                  <integer value="0"/>
-                </param>
-                <param name="tl">
-                  <vector>
-                    <x>-4.0004611015</x>
-                    <y>2.2505235672</y>
-                  </vector>
-                </param>
-                <param name="br">
-                  <vector>
-                    <x>3.9999356270</x>
-                    <y>-2.2500903606</y>
-                  </vector>
-                </param>
-                <param name="c">
-                  <integer value="1" static="true"/>
-                </param>
-                <param name="gamma_adjust">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="filename">
-                  <string>../../../../../../../home/tux</string>
-                </param>
-                <param name="time_offset">
-                  <time value="0s"/>
-                </param>
-              </layer>
               <layer type="rectangle" active="true" version="0.2" desc="Rectangle004">
                 <param name="z_depth">
                   <real value="0.0000000000"/>
@@ -383,41 +348,6 @@
                 </param>
                 <param name="invert">
                   <bool value="false"/>
-                </param>
-              </layer>
-              <layer type="import" active="false" version="0.1" desc="title.png">
-                <param name="z_depth">
-                  <real value="0.0000000000"/>
-                </param>
-                <param name="amount">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="blend_method">
-                  <integer value="1"/>
-                </param>
-                <param name="tl">
-                  <vector>
-                    <x>-4.0004611015</x>
-                    <y>2.2505235672</y>
-                  </vector>
-                </param>
-                <param name="br">
-                  <vector>
-                    <x>3.9999356270</x>
-                    <y>-2.2500903606</y>
-                  </vector>
-                </param>
-                <param name="c">
-                  <integer value="1" static="true"/>
-                </param>
-                <param name="gamma_adjust">
-                  <real value="1.0000000000"/>
-                </param>
-                <param name="filename">
-                  <string>../../../../../../../home/tux</string>
-                </param>
-                <param name="time_offset">
-                  <time value="0s"/>
                 </param>
               </layer>
               <layer type="rectangle" active="true" version="0.2" desc="Rectangle002">
