@@ -66,7 +66,7 @@
                   <real value="1.0000000000"/>
                 </param>
                 <param name="filename">
-                  <string>title.png</string>
+                  <string>../../../../../../../home/tux</string>
                 </param>
                 <param name="time_offset">
                   <time value="0s"/>
@@ -332,7 +332,7 @@
                   <integer value="0"/>
                 </param>
                 <param name="text">
-                  <string>&#x411;&#x43E;&#x440;&#x438;&#x441;&#x430; &#x41C;&#x44E;&#x445;&#x433;&#x430;&#x443;&#x437;&#x435;&#x43D;&#x430;</string>
+                  <string>&#x411;&#x43E;&#x440;&#x438;&#x441;&#x430; &#x41C;&#x44E;&#x43D;&#x445;&#x433;&#x430;&#x443;&#x437;&#x435;&#x43D;&#x430;</string>
                 </param>
                 <param name="color">
                   <color>
@@ -414,7 +414,7 @@
                   <real value="1.0000000000"/>
                 </param>
                 <param name="filename">
-                  <string>title.png</string>
+                  <string>../../../../../../../home/tux</string>
                 </param>
                 <param name="time_offset">
                   <time value="0s"/>
@@ -477,7 +477,7 @@
                 </param>
                 <param name="point1">
                   <vector>
-                    <x>-2.8852961063</x>
+                    <x>-3.1339335442</x>
                     <y>0.4280006886</y>
                   </vector>
                 </param>
@@ -616,8 +616,8 @@
     </param>
     <param name="origin">
       <vector>
-        <x>2.1666667461</x>
-        <y>1.1666666269</y>
+        <x>2.2681066990</x>
+        <y>1.1175366640</y>
       </vector>
     </param>
     <param name="canvas">
