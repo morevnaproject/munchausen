@@ -8,15 +8,15 @@ presents
 Umhhh, damn my car got broken...
 
 3
-00:00:51,140 --> 00:00:51,909
+00:00:51,041 --> 00:00:51,909
 Hi there!
 
 4
-00:00:52,116 --> 00:00:53,116
+00:00:51,958 --> 00:00:52,958
 Hi!
 
 5
-00:00:53,478 --> 00:00:58,550
+00:00:53,326 --> 00:00:58,550
 What an amazing car you have. It seeems 
 like you can travel at any terrain on it!
 
@@ -50,7 +50,7 @@ Yes, I'm his relative.
 
 12
 00:01:24,416 --> 00:01:31,000
-The Adventures of Boris Munchausen 1.0
+The Adventures of Boris Munchausen 1.01
 
 13
 00:01:36,508 --> 00:01:39,375
@@ -180,21 +180,21 @@ Without any doubt, he is a
 greatest sniper in the world.
 
 41
-00:03:57,468 --> 00:03:59,778
+00:03:57,468 --> 00:03:58,982
 Well, I guess now there's no need
 to introduce myself.
 
 42
-00:03:59,867 --> 00:04:03,803
+00:03:59,122 --> 00:04:01,875
 Look, I'm gathering a crew for one campaign.
 And I need someone like you.
 
 43
-00:04:03,892 --> 00:04:05,283
+00:04:01,975 --> 00:04:05,407
 Do you want to join us? I pay well.
 
 44
-00:04:05,549 --> 00:04:07,355
+00:04:05,507 --> 00:04:07,045
 I love money!
 
 45
@@ -229,7 +229,7 @@ Yes?
 Get this crowd away.
 
 52
-00:04:51,000 --> 00:04:52,043
+00:04:51,000 --> 00:04:51,562
 Roger that.
 
 53
@@ -238,7 +238,7 @@ I need a person with such abilities like yours.
 Do you want to travel with us?
 
 54
-00:05:02,923 --> 00:05:07,048
+00:05:02,923 --> 00:05:06,453
 With much pleasure. No one is happy
 to see me here anyway.
 
@@ -282,16 +282,16 @@ Yes, as I've heard,
 it's easy to enter his castle...
 
 64
-00:05:55,307 --> 00:05:58,691
+00:05:55,307 --> 00:06:01,308
 ...but if something will go wrong -
 there's no chance to escape.
 
 65
-00:05:58,898 --> 00:06:01,591
+00:06:01,475 --> 00:06:03,786
 Man, I don't like this Saladin Hottab...
 
 66
-00:06:01,858 --> 00:06:06,985
+00:06:04,150 --> 00:06:06,985
 Still, I think we should go there. I'm sure we will
 be able to fool this Salladin Hottab.
 
