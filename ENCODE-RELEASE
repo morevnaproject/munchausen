@@ -1,0 +1,14 @@
+export VERSION=1.01
+
+# Create MPG file (hardsub):
+for i in {1,2}; do mencoder render/project-bma.blend.mpg -sub project-bma.srt -o munchausen-ova-$VERSION-hardsub.mpg -of mpeg -oac lavc -ovc lavc -lavcopts aspect=16/9:vcodec=mpeg2video:vbitrate=6000:vstrict=0:mbd=1:vpass=$i -lavcopts acodec=mp2:abitrate=192; done
+
+# Create MKV file (softsub):
+for i in {1,2}; do mencoder render/project-bma.blend.mpg -o munchausen-ova-$VERSION.avi -of avi -oac mp3lame -lameopts cbr=128:mode=1 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=1800:vhq:vpass=$i; done
+mkvmerge -o munchausen-ova-$VERSION-softsub.mkv --language 1:ru --default-track 1 munchausen-ova-$VERSION.avi --default-track 0 --language 0:eng project-bma.srt # --language 0:fre french.srt
+
+# Create OGV file (softsub):
+ffmpeg2theora render/project-bma.blend.mpg -o munchausen-ova-$VERSION-softsub.ogv -v 7 --optimize -a 7 --subtitles project-bma.srt --subtitles-language en --title "The Adventures of Boris Munchausen" --license "CC BY-SA"
+
+# Create AVI file (hardsub,lowquality):
+for i in {1,2}; do mencoder render/project-bma.blend.mpg -sub project-bma.srt -o project-bma-1.01-hardsub-lowquality.avi -of avi -oac mp3lame -lameopts cbr=128:mode=1 -ovc lavc -lavcopts vcodec=mpeg4:vbitrate=1800:vhq:vpass=$i; done
