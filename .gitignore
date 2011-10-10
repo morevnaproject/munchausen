@@ -1,5 +1,6 @@
 render/*
 snapshots/*
 packs/*
+extra/*
 Makefile
 *.blend1
